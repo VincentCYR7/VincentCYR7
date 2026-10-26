@@ -1,6 +1,11 @@
 ## Hi there 👋
 チェン　ユウレン　と申します。
+<a href="https://github.com/VincentCYR">
 
+![Stats](https://github-readme-stats-alpha-blue-33.vercel.app/api?username=vincentcyr7&rank_icon=github&theme=dark&card_width=400px&custom_title=Stats&show_icons=true)
+![Langs](https://github-readme-stats-alpha-blue-33.vercel.app/api/top-langs/?username=vincentcyr7&rank_icon=github&theme=dark&card_width=400px&custom_title=Languages&layout=compact)
+
+</a>
 <!--
 **VincentCYR7/VincentCYR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
